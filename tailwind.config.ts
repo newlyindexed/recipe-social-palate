@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,6 +62,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Not Just Salad theme colors
+				salad: {
+					primary: "#8A9A5B", // Olive green
+					secondary: "#F2F0E4", // Light beige
+					accent: "#FEC6A1", // Warm orange
+					"darker-primary": "#6B7A45", // Darker shade of primary
+					"lighter-primary": "#A0B06B", // Lighter shade of primary
 				}
 			},
 			borderRadius: {
