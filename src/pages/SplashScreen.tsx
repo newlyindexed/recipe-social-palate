@@ -17,9 +17,9 @@ export default function SplashScreen() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-secondary">
       <div className="animate-pulse">
         <img 
-          src="/lovable-uploads/5eb7340f-c917-4a8a-a060-e17a2540daab.png" 
+          src="/lovable-uploads/3576e68d-8f8d-41c8-9660-f1262e9531f0.png" 
           alt="Not Just Salad Logo" 
-          className="w-32 h-32"
+          className="w-48 h-48"
         />
       </div>
       

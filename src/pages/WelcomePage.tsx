@@ -4,11 +4,11 @@ import { Link } from "react-router-dom";
 export default function WelcomePage() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-salad-primary p-6 text-center">
-      <div className="w-32 h-32 bg-white rounded-full flex items-center justify-center mb-6">
+      <div className="w-40 h-40 bg-white rounded-full flex items-center justify-center mb-6">
         <img 
-          src="/lovable-uploads/5eb7340f-c917-4a8a-a060-e17a2540daab.png" 
+          src="/lovable-uploads/3576e68d-8f8d-41c8-9660-f1262e9531f0.png" 
           alt="Not Just Salad Logo" 
-          className="w-24 h-24"
+          className="w-32 h-32"
         />
       </div>
       
